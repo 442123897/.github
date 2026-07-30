@@ -1,6 +1,6 @@
 # Contributing Guide
 
-[查看中文版]([./CONTRIBUTING_zh.md](https://github.com/openJiuwen-ai/.github/blob/main/CONTRIBUTING.md))
+[查看中文版](https://github.com/openJiuwen-ai/.github/blob/main/CONTRIBUTING.md)
 
 Welcome to contribute to the openJiuwen community. openJiuwen is an open-source Agent platform dedicated to providing flexible, powerful, and easy-to-use capabilities for developing and running AI Agents. We encourage developers to participate in many ways, including but not limited to code contributions, documentation improvements, issue reports, and feature suggestions.
 
