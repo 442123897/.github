@@ -1,6 +1,6 @@
 # 贡献指南
 
-[View English](./CONTRIBUTING.md)
+[View English](https://github.com/openJiuwen-ai/.github/blob/main/CONTRIBUTING.md)
 
 欢迎参与 openJiuwen 社区贡献。openJiuwen 作为开源 Agent 平台，致力于提供灵活、强大且易用的 AI Agent 开发与运行能力。我们鼓励开发者以各种方式参与，包括但不限于代码贡献、文档改进、问题反馈与功能建议。
 
