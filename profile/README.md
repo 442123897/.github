@@ -43,7 +43,7 @@ openJiuwen adopts a modular repository design to build the AI Agent development 
   <tbody>
     <tr>
       <td rowspan="3" style="border: 1px solid; padding: 10px 12px; font-weight: 700; vertical-align: middle;">DeepAgents</td>
-      <td style="border: 1px solid; padding: 10px 12px; vertical-align: top;"><a href="https://github.com/openJiuwen/jiuwenswarm">jiuwenswarm</a></td>
+      <td style="border: 1px solid; padding: 10px 12px; vertical-align: top;"><a href="https://github.com/openJiuwen-ai/jiuwenswarm">jiuwenswarm</a></td>
       <td style="border: 1px solid; padding: 10px 12px; vertical-align: top;">A multi-Agent collaboration framework and official flagship application that supports complex task collaboration and autonomous Skill evolution.</td>
     </tr>
     <tr>
