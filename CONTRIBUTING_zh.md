@@ -28,7 +28,7 @@ GitHub 与 [GitCode 上的 openJiuwen](https://gitcode.com/openJiuwen) 保持双
 
 ## 版权规范
 
-用户提交的代码必须是原创内容，不得侵犯他人知识产权，贡献代码请遵守[许可证与版权规范](https://gitcode.com/openjiuwen/community/tree/main/contribute/许可证与版权规范.md)。若新贡献代码涉及第三方开源软件引入或片段引用，请严格遵守[许可证与特殊许可证指引](https://gitcode.com/openjiuwen/community/tree/main/contribute/许可证与特殊许可证评审指导.md)中的要求。
+用户提交的代码必须是原创内容，不得侵犯他人知识产权，贡献代码请遵守[许可证与版权规范](https://github.com/openJiuwen-ai/community/tree/main/contribute/许可证与版权规范.md)。若新贡献代码涉及第三方开源软件引入或片段引用，请严格遵守[许可证与特殊许可证指引](https://github.com/openJiuwen-ai/community/tree/main/contribute/许可证与特殊许可证评审指导.md)中的要求。
 
 openJiuwen有权根据相关规范修改/删除开发者贡献的内容，直至符合对应规范要求。
 
